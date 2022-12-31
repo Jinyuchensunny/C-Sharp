@@ -1,0 +1,20 @@
+E:\workspaceVS\jyc-排序\jyc-排序\bin\Debug\jyc-排序.exe.config
+E:\workspaceVS\jyc-排序\jyc-排序\bin\Debug\jyc-排序.exe
+E:\workspaceVS\jyc-排序\jyc-排序\bin\Debug\jyc-排序.pdb
+E:\workspaceVS\jyc-排序\jyc-排序\obj\Debug\jyc-排序.csprojAssemblyReference.cache
+E:\workspaceVS\jyc-排序\jyc-排序\obj\Debug\jyc_排序.Form1.resources
+E:\workspaceVS\jyc-排序\jyc-排序\obj\Debug\jyc_排序.Properties.Resources.resources
+E:\workspaceVS\jyc-排序\jyc-排序\obj\Debug\jyc-排序.csproj.GenerateResource.cache
+E:\workspaceVS\jyc-排序\jyc-排序\obj\Debug\jyc-排序.csproj.CoreCompileInputs.cache
+E:\workspaceVS\jyc-排序\jyc-排序\obj\Debug\jyc-排序.exe
+E:\workspaceVS\jyc-排序\jyc-排序\obj\Debug\jyc-排序.pdb
+E:\workspaceVS\04 排序\jyc-排序\bin\Debug\jyc-排序.exe.config
+E:\workspaceVS\04 排序\jyc-排序\bin\Debug\jyc-排序.exe
+E:\workspaceVS\04 排序\jyc-排序\bin\Debug\jyc-排序.pdb
+E:\workspaceVS\04 排序\jyc-排序\obj\Debug\jyc-排序.csprojAssemblyReference.cache
+E:\workspaceVS\04 排序\jyc-排序\obj\Debug\jyc_排序.Form1.resources
+E:\workspaceVS\04 排序\jyc-排序\obj\Debug\jyc_排序.Properties.Resources.resources
+E:\workspaceVS\04 排序\jyc-排序\obj\Debug\jyc-排序.csproj.GenerateResource.cache
+E:\workspaceVS\04 排序\jyc-排序\obj\Debug\jyc-排序.csproj.CoreCompileInputs.cache
+E:\workspaceVS\04 排序\jyc-排序\obj\Debug\jyc-排序.exe
+E:\workspaceVS\04 排序\jyc-排序\obj\Debug\jyc-排序.pdb

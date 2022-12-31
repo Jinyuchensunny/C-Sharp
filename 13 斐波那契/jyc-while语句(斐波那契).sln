@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jyc-while语句(斐波那契)", "while语句(斐波那契)\jyc-while语句(斐波那契).csproj", "{666472A8-A319-4442-89EB-BFFD97D7BCD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666472A8-A319-4442-89EB-BFFD97D7BCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666472A8-A319-4442-89EB-BFFD97D7BCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666472A8-A319-4442-89EB-BFFD97D7BCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666472A8-A319-4442-89EB-BFFD97D7BCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9397796-F801-49AA-ABDB-66F7158F046C}
+	EndGlobalSection
+EndGlobal

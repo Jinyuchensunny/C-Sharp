@@ -1,0 +1,10 @@
+E:\workspaceVS\jyc-加密\jyc-加密\bin\Debug\jyc-加密.exe.config
+E:\workspaceVS\jyc-加密\jyc-加密\bin\Debug\jyc-加密.exe
+E:\workspaceVS\jyc-加密\jyc-加密\bin\Debug\jyc-加密.pdb
+E:\workspaceVS\jyc-加密\jyc-加密\obj\Debug\jyc-加密.csprojAssemblyReference.cache
+E:\workspaceVS\jyc-加密\jyc-加密\obj\Debug\jyc_加密.Form1.resources
+E:\workspaceVS\jyc-加密\jyc-加密\obj\Debug\jyc_加密.Properties.Resources.resources
+E:\workspaceVS\jyc-加密\jyc-加密\obj\Debug\jyc-加密.csproj.GenerateResource.cache
+E:\workspaceVS\jyc-加密\jyc-加密\obj\Debug\jyc-加密.csproj.CoreCompileInputs.cache
+E:\workspaceVS\jyc-加密\jyc-加密\obj\Debug\jyc-加密.exe
+E:\workspaceVS\jyc-加密\jyc-加密\obj\Debug\jyc-加密.pdb

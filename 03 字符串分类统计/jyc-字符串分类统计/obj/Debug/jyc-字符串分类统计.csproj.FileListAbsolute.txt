@@ -1,0 +1,20 @@
+E:\workspaceVS\jyc-字符串分类统计\jyc-字符串分类统计\bin\Debug\jyc-字符串分类统计.exe.config
+E:\workspaceVS\jyc-字符串分类统计\jyc-字符串分类统计\bin\Debug\jyc-字符串分类统计.exe
+E:\workspaceVS\jyc-字符串分类统计\jyc-字符串分类统计\bin\Debug\jyc-字符串分类统计.pdb
+E:\workspaceVS\jyc-字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc-字符串分类统计.csprojAssemblyReference.cache
+E:\workspaceVS\jyc-字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc_字符串分类统计.Form1.resources
+E:\workspaceVS\jyc-字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc_字符串分类统计.Properties.Resources.resources
+E:\workspaceVS\jyc-字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc-字符串分类统计.csproj.GenerateResource.cache
+E:\workspaceVS\jyc-字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc-字符串分类统计.csproj.CoreCompileInputs.cache
+E:\workspaceVS\jyc-字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc-字符串分类统计.exe
+E:\workspaceVS\jyc-字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc-字符串分类统计.pdb
+E:\workspaceVS\03 字符串分类统计\jyc-字符串分类统计\bin\Debug\jyc-字符串分类统计.exe.config
+E:\workspaceVS\03 字符串分类统计\jyc-字符串分类统计\bin\Debug\jyc-字符串分类统计.exe
+E:\workspaceVS\03 字符串分类统计\jyc-字符串分类统计\bin\Debug\jyc-字符串分类统计.pdb
+E:\workspaceVS\03 字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc-字符串分类统计.csprojAssemblyReference.cache
+E:\workspaceVS\03 字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc_字符串分类统计.Form1.resources
+E:\workspaceVS\03 字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc_字符串分类统计.Properties.Resources.resources
+E:\workspaceVS\03 字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc-字符串分类统计.csproj.GenerateResource.cache
+E:\workspaceVS\03 字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc-字符串分类统计.csproj.CoreCompileInputs.cache
+E:\workspaceVS\03 字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc-字符串分类统计.exe
+E:\workspaceVS\03 字符串分类统计\jyc-字符串分类统计\obj\Debug\jyc-字符串分类统计.pdb

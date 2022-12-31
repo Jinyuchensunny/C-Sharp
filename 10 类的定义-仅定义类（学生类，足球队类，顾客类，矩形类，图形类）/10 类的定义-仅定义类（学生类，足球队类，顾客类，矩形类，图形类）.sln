@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 类的定义-仅定义类（学生类，足球队类，顾客类，矩形类，图形类）", "10 类的定义-仅定义类（学生类，足球队类，顾客类，矩形类，图形类）\10 类的定义-仅定义类（学生类，足球队类，顾客类，矩形类，图形类）.csproj", "{83005D17-1DFE-498B-8498-8D8913D70904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83005D17-1DFE-498B-8498-8D8913D70904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83005D17-1DFE-498B-8498-8D8913D70904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83005D17-1DFE-498B-8498-8D8913D70904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83005D17-1DFE-498B-8498-8D8913D70904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22A16DB9-DC26-4B3C-89C6-95474568625B}
+	EndGlobalSection
+EndGlobal

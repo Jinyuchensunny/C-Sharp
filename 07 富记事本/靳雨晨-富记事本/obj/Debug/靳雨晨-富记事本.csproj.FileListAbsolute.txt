@@ -1,0 +1,26 @@
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\bin\Debug\靳雨晨-富记事本.exe.config
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\bin\Debug\靳雨晨-富记事本.exe
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\bin\Debug\靳雨晨-富记事本.pdb
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨-富记事本.csprojAssemblyReference.cache
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨_富记事本.jyc_Form1.resources
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨_富记事本.Properties.Resources.resources
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨-富记事本.csproj.GenerateResource.cache
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨-富记事本.csproj.CoreCompileInputs.cache
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨-富记事本.exe
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨-富记事本.pdb
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨_富记事本.jyc_bulletform.resources
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨_富记事本.jyc_specialForm.resources
+E:\workspaceVS\靳雨晨-富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨_富记事本.jyc_replaceForm.resources
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\bin\Debug\靳雨晨-富记事本.exe.config
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\bin\Debug\靳雨晨-富记事本.exe
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\bin\Debug\靳雨晨-富记事本.pdb
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨-富记事本.csprojAssemblyReference.cache
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨_富记事本.jyc_bulletform.resources
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨_富记事本.jyc_Form1.resources
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨_富记事本.jyc_replaceForm.resources
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨_富记事本.jyc_specialForm.resources
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨_富记事本.Properties.Resources.resources
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨-富记事本.csproj.GenerateResource.cache
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨-富记事本.csproj.CoreCompileInputs.cache
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨-富记事本.exe
+E:\workspaceVS\07 富记事本\靳雨晨-富记事本\obj\Debug\靳雨晨-富记事本.pdb

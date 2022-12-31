@@ -1,0 +1,10 @@
+E:\workspaceVS\靳雨晨-选课\靳雨晨-选课\bin\Debug\靳雨晨-选课.exe.config
+E:\workspaceVS\靳雨晨-选课\靳雨晨-选课\bin\Debug\靳雨晨-选课.exe
+E:\workspaceVS\靳雨晨-选课\靳雨晨-选课\bin\Debug\靳雨晨-选课.pdb
+E:\workspaceVS\靳雨晨-选课\靳雨晨-选课\obj\Debug\靳雨晨-选课.csprojAssemblyReference.cache
+E:\workspaceVS\靳雨晨-选课\靳雨晨-选课\obj\Debug\靳雨晨_选课.Form1.resources
+E:\workspaceVS\靳雨晨-选课\靳雨晨-选课\obj\Debug\靳雨晨_选课.Properties.Resources.resources
+E:\workspaceVS\靳雨晨-选课\靳雨晨-选课\obj\Debug\靳雨晨-选课.csproj.GenerateResource.cache
+E:\workspaceVS\靳雨晨-选课\靳雨晨-选课\obj\Debug\靳雨晨-选课.csproj.CoreCompileInputs.cache
+E:\workspaceVS\靳雨晨-选课\靳雨晨-选课\obj\Debug\靳雨晨-选课.exe
+E:\workspaceVS\靳雨晨-选课\靳雨晨-选课\obj\Debug\靳雨晨-选课.pdb

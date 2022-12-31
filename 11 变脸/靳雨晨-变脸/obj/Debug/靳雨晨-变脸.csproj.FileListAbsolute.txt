@@ -1,0 +1,10 @@
+E:\workspaceVS\靳雨晨-变脸\靳雨晨-变脸\bin\Debug\靳雨晨-变脸.exe.config
+E:\workspaceVS\靳雨晨-变脸\靳雨晨-变脸\bin\Debug\靳雨晨-变脸.exe
+E:\workspaceVS\靳雨晨-变脸\靳雨晨-变脸\bin\Debug\靳雨晨-变脸.pdb
+E:\workspaceVS\靳雨晨-变脸\靳雨晨-变脸\obj\Debug\靳雨晨_变脸.Form1.resources
+E:\workspaceVS\靳雨晨-变脸\靳雨晨-变脸\obj\Debug\靳雨晨_变脸.Properties.Resources.resources
+E:\workspaceVS\靳雨晨-变脸\靳雨晨-变脸\obj\Debug\靳雨晨-变脸.csproj.GenerateResource.cache
+E:\workspaceVS\靳雨晨-变脸\靳雨晨-变脸\obj\Debug\靳雨晨-变脸.csproj.CoreCompileInputs.cache
+E:\workspaceVS\靳雨晨-变脸\靳雨晨-变脸\obj\Debug\靳雨晨-变脸.exe
+E:\workspaceVS\靳雨晨-变脸\靳雨晨-变脸\obj\Debug\靳雨晨-变脸.pdb
+E:\workspaceVS\靳雨晨-变脸\靳雨晨-变脸\obj\Debug\靳雨晨-变脸.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+E:\workspaceVS\靳雨晨-考试分类统计字符串\靳雨晨-考试分类统计字符串\bin\Debug\靳雨晨-考试分类统计字符串.exe.config
+E:\workspaceVS\靳雨晨-考试分类统计字符串\靳雨晨-考试分类统计字符串\bin\Debug\靳雨晨-考试分类统计字符串.exe
+E:\workspaceVS\靳雨晨-考试分类统计字符串\靳雨晨-考试分类统计字符串\bin\Debug\靳雨晨-考试分类统计字符串.pdb
+E:\workspaceVS\靳雨晨-考试分类统计字符串\靳雨晨-考试分类统计字符串\obj\Debug\靳雨晨-考试分类统计字符串.csprojAssemblyReference.cache
+E:\workspaceVS\靳雨晨-考试分类统计字符串\靳雨晨-考试分类统计字符串\obj\Debug\靳雨晨_考试分类统计字符串.Form1.resources
+E:\workspaceVS\靳雨晨-考试分类统计字符串\靳雨晨-考试分类统计字符串\obj\Debug\靳雨晨_考试分类统计字符串.Properties.Resources.resources
+E:\workspaceVS\靳雨晨-考试分类统计字符串\靳雨晨-考试分类统计字符串\obj\Debug\靳雨晨-考试分类统计字符串.csproj.GenerateResource.cache
+E:\workspaceVS\靳雨晨-考试分类统计字符串\靳雨晨-考试分类统计字符串\obj\Debug\靳雨晨-考试分类统计字符串.csproj.CoreCompileInputs.cache
+E:\workspaceVS\靳雨晨-考试分类统计字符串\靳雨晨-考试分类统计字符串\obj\Debug\靳雨晨-考试分类统计字符串.exe
+E:\workspaceVS\靳雨晨-考试分类统计字符串\靳雨晨-考试分类统计字符串\obj\Debug\靳雨晨-考试分类统计字符串.pdb

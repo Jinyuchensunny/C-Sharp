@@ -1,0 +1,10 @@
+E:\workspaceVS\靳雨晨-考试记事本\靳雨晨-考试记事本\bin\Debug\靳雨晨-考试记事本.exe.config
+E:\workspaceVS\靳雨晨-考试记事本\靳雨晨-考试记事本\bin\Debug\靳雨晨-考试记事本.exe
+E:\workspaceVS\靳雨晨-考试记事本\靳雨晨-考试记事本\bin\Debug\靳雨晨-考试记事本.pdb
+E:\workspaceVS\靳雨晨-考试记事本\靳雨晨-考试记事本\obj\Debug\靳雨晨-考试记事本.csprojAssemblyReference.cache
+E:\workspaceVS\靳雨晨-考试记事本\靳雨晨-考试记事本\obj\Debug\靳雨晨_考试记事本.Form1.resources
+E:\workspaceVS\靳雨晨-考试记事本\靳雨晨-考试记事本\obj\Debug\靳雨晨_考试记事本.Properties.Resources.resources
+E:\workspaceVS\靳雨晨-考试记事本\靳雨晨-考试记事本\obj\Debug\靳雨晨-考试记事本.csproj.GenerateResource.cache
+E:\workspaceVS\靳雨晨-考试记事本\靳雨晨-考试记事本\obj\Debug\靳雨晨-考试记事本.csproj.CoreCompileInputs.cache
+E:\workspaceVS\靳雨晨-考试记事本\靳雨晨-考试记事本\obj\Debug\靳雨晨-考试记事本.exe
+E:\workspaceVS\靳雨晨-考试记事本\靳雨晨-考试记事本\obj\Debug\靳雨晨-考试记事本.pdb

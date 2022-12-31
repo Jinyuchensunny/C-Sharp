@@ -1,0 +1,10 @@
+E:\workspaceVS\靳雨晨-只能输入数值的文本框\靳雨晨-只能输入数值的文本框\bin\Debug\靳雨晨-只能输入数值的文本框.exe.config
+E:\workspaceVS\靳雨晨-只能输入数值的文本框\靳雨晨-只能输入数值的文本框\bin\Debug\靳雨晨-只能输入数值的文本框.exe
+E:\workspaceVS\靳雨晨-只能输入数值的文本框\靳雨晨-只能输入数值的文本框\bin\Debug\靳雨晨-只能输入数值的文本框.pdb
+E:\workspaceVS\靳雨晨-只能输入数值的文本框\靳雨晨-只能输入数值的文本框\obj\Debug\靳雨晨-只能输入数值的文本框.csprojAssemblyReference.cache
+E:\workspaceVS\靳雨晨-只能输入数值的文本框\靳雨晨-只能输入数值的文本框\obj\Debug\靳雨晨_只能输入数值的文本框.Form1.resources
+E:\workspaceVS\靳雨晨-只能输入数值的文本框\靳雨晨-只能输入数值的文本框\obj\Debug\靳雨晨_只能输入数值的文本框.Properties.Resources.resources
+E:\workspaceVS\靳雨晨-只能输入数值的文本框\靳雨晨-只能输入数值的文本框\obj\Debug\靳雨晨-只能输入数值的文本框.csproj.GenerateResource.cache
+E:\workspaceVS\靳雨晨-只能输入数值的文本框\靳雨晨-只能输入数值的文本框\obj\Debug\靳雨晨-只能输入数值的文本框.csproj.CoreCompileInputs.cache
+E:\workspaceVS\靳雨晨-只能输入数值的文本框\靳雨晨-只能输入数值的文本框\obj\Debug\靳雨晨-只能输入数值的文本框.exe
+E:\workspaceVS\靳雨晨-只能输入数值的文本框\靳雨晨-只能输入数值的文本框\obj\Debug\靳雨晨-只能输入数值的文本框.pdb

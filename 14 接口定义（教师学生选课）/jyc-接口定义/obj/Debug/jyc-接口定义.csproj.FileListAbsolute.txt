@@ -1,0 +1,10 @@
+E:\workspaceVS\jyc-接口定义\jyc-接口定义\bin\Debug\jyc-接口定义.exe.config
+E:\workspaceVS\jyc-接口定义\jyc-接口定义\bin\Debug\jyc-接口定义.exe
+E:\workspaceVS\jyc-接口定义\jyc-接口定义\bin\Debug\jyc-接口定义.pdb
+E:\workspaceVS\jyc-接口定义\jyc-接口定义\obj\Debug\jyc-接口定义.csprojAssemblyReference.cache
+E:\workspaceVS\jyc-接口定义\jyc-接口定义\obj\Debug\jyc_接口定义.Form1.resources
+E:\workspaceVS\jyc-接口定义\jyc-接口定义\obj\Debug\jyc_接口定义.Properties.Resources.resources
+E:\workspaceVS\jyc-接口定义\jyc-接口定义\obj\Debug\jyc-接口定义.csproj.GenerateResource.cache
+E:\workspaceVS\jyc-接口定义\jyc-接口定义\obj\Debug\jyc-接口定义.csproj.CoreCompileInputs.cache
+E:\workspaceVS\jyc-接口定义\jyc-接口定义\obj\Debug\jyc-接口定义.exe
+E:\workspaceVS\jyc-接口定义\jyc-接口定义\obj\Debug\jyc-接口定义.pdb

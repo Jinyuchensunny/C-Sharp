@@ -1,0 +1,20 @@
+E:\workspaceVS\靳雨晨-图片查看器\靳雨晨-图片查看器\bin\Debug\靳雨晨-图片查看器.exe.config
+E:\workspaceVS\靳雨晨-图片查看器\靳雨晨-图片查看器\bin\Debug\靳雨晨-图片查看器.exe
+E:\workspaceVS\靳雨晨-图片查看器\靳雨晨-图片查看器\bin\Debug\靳雨晨-图片查看器.pdb
+E:\workspaceVS\靳雨晨-图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨-图片查看器.csprojAssemblyReference.cache
+E:\workspaceVS\靳雨晨-图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨_图片查看器.Form1.resources
+E:\workspaceVS\靳雨晨-图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨_图片查看器.Properties.Resources.resources
+E:\workspaceVS\靳雨晨-图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨-图片查看器.csproj.GenerateResource.cache
+E:\workspaceVS\靳雨晨-图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨-图片查看器.csproj.CoreCompileInputs.cache
+E:\workspaceVS\靳雨晨-图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨-图片查看器.exe
+E:\workspaceVS\靳雨晨-图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨-图片查看器.pdb
+E:\workspaceVS\05 图片查看器\靳雨晨-图片查看器\bin\Debug\靳雨晨-图片查看器.exe.config
+E:\workspaceVS\05 图片查看器\靳雨晨-图片查看器\bin\Debug\靳雨晨-图片查看器.exe
+E:\workspaceVS\05 图片查看器\靳雨晨-图片查看器\bin\Debug\靳雨晨-图片查看器.pdb
+E:\workspaceVS\05 图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨-图片查看器.csprojAssemblyReference.cache
+E:\workspaceVS\05 图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨_图片查看器.Form1.resources
+E:\workspaceVS\05 图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨_图片查看器.Properties.Resources.resources
+E:\workspaceVS\05 图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨-图片查看器.csproj.GenerateResource.cache
+E:\workspaceVS\05 图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨-图片查看器.csproj.CoreCompileInputs.cache
+E:\workspaceVS\05 图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨-图片查看器.exe
+E:\workspaceVS\05 图片查看器\靳雨晨-图片查看器\obj\Debug\靳雨晨-图片查看器.pdb

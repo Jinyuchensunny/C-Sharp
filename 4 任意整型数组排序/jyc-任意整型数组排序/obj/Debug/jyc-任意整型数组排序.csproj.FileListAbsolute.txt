@@ -1,0 +1,10 @@
+E:\workspaceVS\jyc-任意整型数组排序\jyc-任意整型数组排序\bin\Debug\jyc-任意整型数组排序.exe.config
+E:\workspaceVS\jyc-任意整型数组排序\jyc-任意整型数组排序\bin\Debug\jyc-任意整型数组排序.exe
+E:\workspaceVS\jyc-任意整型数组排序\jyc-任意整型数组排序\bin\Debug\jyc-任意整型数组排序.pdb
+E:\workspaceVS\jyc-任意整型数组排序\jyc-任意整型数组排序\obj\Debug\jyc-任意整型数组排序.csprojAssemblyReference.cache
+E:\workspaceVS\jyc-任意整型数组排序\jyc-任意整型数组排序\obj\Debug\jyc_任意整型数组排序.Form1.resources
+E:\workspaceVS\jyc-任意整型数组排序\jyc-任意整型数组排序\obj\Debug\jyc_任意整型数组排序.Properties.Resources.resources
+E:\workspaceVS\jyc-任意整型数组排序\jyc-任意整型数组排序\obj\Debug\jyc-任意整型数组排序.csproj.GenerateResource.cache
+E:\workspaceVS\jyc-任意整型数组排序\jyc-任意整型数组排序\obj\Debug\jyc-任意整型数组排序.csproj.CoreCompileInputs.cache
+E:\workspaceVS\jyc-任意整型数组排序\jyc-任意整型数组排序\obj\Debug\jyc-任意整型数组排序.exe
+E:\workspaceVS\jyc-任意整型数组排序\jyc-任意整型数组排序\obj\Debug\jyc-任意整型数组排序.pdb

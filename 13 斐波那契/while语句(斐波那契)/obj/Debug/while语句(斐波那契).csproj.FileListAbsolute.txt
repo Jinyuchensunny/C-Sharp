@@ -1,0 +1,10 @@
+E:\workspaceVS\while语句(斐波那契)\while语句(斐波那契)\bin\Debug\while语句(斐波那契).exe.config
+E:\workspaceVS\while语句(斐波那契)\while语句(斐波那契)\bin\Debug\while语句(斐波那契).exe
+E:\workspaceVS\while语句(斐波那契)\while语句(斐波那契)\bin\Debug\while语句(斐波那契).pdb
+E:\workspaceVS\while语句(斐波那契)\while语句(斐波那契)\obj\Debug\while语句(斐波那契).csprojAssemblyReference.cache
+E:\workspaceVS\while语句(斐波那契)\while语句(斐波那契)\obj\Debug\while语句_斐波那契_.Form1.resources
+E:\workspaceVS\while语句(斐波那契)\while语句(斐波那契)\obj\Debug\while语句_斐波那契_.Properties.Resources.resources
+E:\workspaceVS\while语句(斐波那契)\while语句(斐波那契)\obj\Debug\while语句(斐波那契).csproj.GenerateResource.cache
+E:\workspaceVS\while语句(斐波那契)\while语句(斐波那契)\obj\Debug\while语句(斐波那契).csproj.CoreCompileInputs.cache
+E:\workspaceVS\while语句(斐波那契)\while语句(斐波那契)\obj\Debug\while语句(斐波那契).exe
+E:\workspaceVS\while语句(斐波那契)\while语句(斐波那契)\obj\Debug\while语句(斐波那契).pdb

@@ -1,0 +1,20 @@
+E:\workspaceVS\jyc-学生排序\jyc-学生排序\obj\Debug\jyc-学生排序.csprojAssemblyReference.cache
+E:\workspaceVS\jyc-学生排序\jyc-学生排序\obj\Debug\jyc_学生排序.Form1.resources
+E:\workspaceVS\jyc-学生排序\jyc-学生排序\obj\Debug\jyc_学生排序.Properties.Resources.resources
+E:\workspaceVS\jyc-学生排序\jyc-学生排序\obj\Debug\jyc-学生排序.csproj.GenerateResource.cache
+E:\workspaceVS\jyc-学生排序\jyc-学生排序\obj\Debug\jyc-学生排序.csproj.CoreCompileInputs.cache
+E:\workspaceVS\jyc-学生排序\jyc-学生排序\bin\Debug\jyc-学生排序.exe.config
+E:\workspaceVS\jyc-学生排序\jyc-学生排序\bin\Debug\jyc-学生排序.exe
+E:\workspaceVS\jyc-学生排序\jyc-学生排序\bin\Debug\jyc-学生排序.pdb
+E:\workspaceVS\jyc-学生排序\jyc-学生排序\obj\Debug\jyc-学生排序.exe
+E:\workspaceVS\jyc-学生排序\jyc-学生排序\obj\Debug\jyc-学生排序.pdb
+E:\workspaceVS\09 学生排序（接口的使用）\jyc-学生排序\bin\Debug\jyc-学生排序.exe.config
+E:\workspaceVS\09 学生排序（接口的使用）\jyc-学生排序\bin\Debug\jyc-学生排序.exe
+E:\workspaceVS\09 学生排序（接口的使用）\jyc-学生排序\bin\Debug\jyc-学生排序.pdb
+E:\workspaceVS\09 学生排序（接口的使用）\jyc-学生排序\obj\Debug\jyc-学生排序.csprojAssemblyReference.cache
+E:\workspaceVS\09 学生排序（接口的使用）\jyc-学生排序\obj\Debug\jyc_学生排序.Form1.resources
+E:\workspaceVS\09 学生排序（接口的使用）\jyc-学生排序\obj\Debug\jyc_学生排序.Properties.Resources.resources
+E:\workspaceVS\09 学生排序（接口的使用）\jyc-学生排序\obj\Debug\jyc-学生排序.csproj.GenerateResource.cache
+E:\workspaceVS\09 学生排序（接口的使用）\jyc-学生排序\obj\Debug\jyc-学生排序.csproj.CoreCompileInputs.cache
+E:\workspaceVS\09 学生排序（接口的使用）\jyc-学生排序\obj\Debug\jyc-学生排序.exe
+E:\workspaceVS\09 学生排序（接口的使用）\jyc-学生排序\obj\Debug\jyc-学生排序.pdb
